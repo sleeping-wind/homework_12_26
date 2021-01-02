@@ -30,6 +30,10 @@
             android:name=".C"
             android:label="C" >
         </activity>
+        <activity
+            android:name=".Hello"
+            android:label="Hello" >
+        </activity>
     </application>
 
 </manifest>
